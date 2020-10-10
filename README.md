@@ -7,7 +7,7 @@ We use the [Oxford dataset](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) 
 * Check ```config.py``` containing the network configuration
 * Download the dataset, extract and move it to ```./dataset/```
 * Run ```python train.py```
-## Evalution
+## Evaluation
 * Run ```python demo.py```
 ## Pretrained model
 * You can download pretrained model in here: [resnet34 with Oxford5k](https://drive.google.com/file/d/1902WjolDw0Ch5qzTSzL8gbpqtGUjNYzn/view?usp=sharing) and [resnet34 with Paris](https://drive.google.com/file/d/1-DAbCuRwYQl_RELIcofmrc3b1VI5YZaa/view?usp=sharing)
