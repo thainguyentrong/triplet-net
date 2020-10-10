@@ -5,7 +5,7 @@ We use the [Oxford dataset](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) 
 ## How to train
 * Check ```requirements.txt``` before using repos
 * Check ```config.py``` containing the network configuration
-* Download the dataset, extract and move it to ```./dataset```
+* Download the dataset, extract and move it to ```./dataset/```
 * Run ```python train.py```
 ## Evalute
 * Run ```python demo.py```
