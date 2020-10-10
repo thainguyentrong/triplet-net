@@ -5,4 +5,4 @@ We use the [Oxford dataset](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) 
 ## How to train
 * Check requirements.txt before using repos
 * Download the dataset, extract and move it to ```dataset``` folder
-* Run ```python train.py'''
+* Run ```python train.py```
