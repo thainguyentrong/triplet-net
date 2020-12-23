@@ -3,7 +3,7 @@ Pytorch implementation of Triplet Network for Content-based Image Retrieval (CBI
 ## Dataset
 We use the [Oxford dataset](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) and [Paris dataset](https://www.robots.ox.ac.uk/~vgg/data/parisbuildings/) to evaluate the Triplet Network. The preprocessed datasets can be downloaded [here](https://drive.google.com/file/d/1mrfchgX167GZZ4Wbk5ig8lcDRQy2eXsD/view?usp=sharing)
 ## How to train
-* Check ```requirements.txt``` before using project
+* Check ```requirements.txt``` before using this project
 * Check ```config.py``` containing the network configuration
 * Download the dataset, extract and move it to ```./dataset/```
 * Run ```python train.py```
